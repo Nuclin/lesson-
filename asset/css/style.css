@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body {
+
+}
+
+.banner {
+	background: url(../image/imws.jpg);
+	background-repeat: no-repeat;
+	color: red;
+}
